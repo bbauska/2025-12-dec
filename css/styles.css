@@ -1,4 +1,4 @@
-<!-- css/styles.css for Calendar-2025-Dec.bauska.org -->
+<!-- css/styles.css for 2025-Dec.bauska.org -->
 body {
   font-family:Helvetica;
 }
@@ -7,7 +7,7 @@ table {
   width:70%; 
 }
 .month-header {
-  background-image:url("https://calendar-2025-dec.bauska.org/images/andthegaynightlife-600px2.jpg");
+  background-image:url("https://2025-dec.bauska.org/images/mst3k-chicken-600.png");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
