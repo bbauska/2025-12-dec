@@ -1,6 +1,6 @@
 <!-- css/styles.css for 2025-Dec.bauska.org -->
 body {
-  font-family: "Lucida Console", "Courier New", monospace, Helvetica;
+  font-family: Helvetica, Bahnschrift, "Lucida Console", "Courier New", monospace;
 }
 table {
   table-layout:fixed;
@@ -105,10 +105,14 @@ ul {
     background-color:#9ab3ff;  /* pale blue */
 }
 .start-winter {
-    background-color:#98fb98;  /* very soft lime green */
+  background-color:#98fb98;  /* very soft lime green */
+  font-family: Bahnschrift, "Lucida Console", "Courier New", monospace, Helvetica;
+  font-size:125%;
 }
 .xmas {
-    background-color:#a6f4ff;  /* pale cyan */
+  background-color:#a6f4ff;  /* pale cyan */
+  font-family: Bahnschrift, "Lucida Console", "Courier New", monospace, Helvetica;
+  font-size:125%;
 }
 .boxing {
     background-color:#ffc0cb;  /* very pale red (pink) */
