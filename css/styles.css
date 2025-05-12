@@ -55,54 +55,54 @@ h1 {
 }
 
 ul {
-    font-size:75%;
-    list-style:none;
-    padding-left:20px;
-    padding-right:5px;
+  font-size:75%;
+  list-style:none;
+  padding-left:20px;
+  padding-right:5px;
 }
 
 .event {
-    border-radius:5px;
-    color:#10171c;  /* very dark (mostly black) blue */
-    padding:5px;
-    margin:5px 0;
+  border-radius:5px;
+  color:#10171c;  /* very dark (mostly black) blue */
+  padding:5px;
+  margin:5px 0;
 }
 
 .cyber-monday {
-    background-color:#e8e193;  /* very soft yellow */
+  background-color:#e8e193;  /* very soft yellow */
 }
 .giving-tuesday {
-    background-color:#c2e7e7;  /* light grayish cyan */
+  background-color:#c2e7e7;  /* light grayish cyan */
 }
 .natl-cookie {
-    background-color:#ff8080;  /* very light red */
+  background-color:#ff8080;  /* very light red */
 }
 .world-volunteer {
-    background-color:#ff9933;  /* vivid orange */
+  background-color:#ff9933;  /* vivid orange */
 }
 .natl-donut {
-    background-color:#ff80bf;  /* very light pink */
+  background-color:#ff80bf;  /* very light pink */
 }
 .pearl-harbor {
-    background-color:#cde6ff;  /* very pale blue */
+  background-color:#cde6ff;  /* very pale blue */
 }
 .human-rights {
-    background-color:#ff9a9a;  /* light red */
+  background-color:#ff9a9a;  /* light red */
 }
 .intl-mountain {
-    background-color:#e6cdff;  /* very pale violet */
+  background-color:#e6cdff;  /* very pale violet */
 }
 .natl-cocoa {
-    background-color:#ff8c1a;  /* vivid orange */
+  background-color:#ff8c1a;  /* vivid orange */
 }
 .bill-of-rights {
-    background-color:#ffb21a;  /* vivid orange */
+  background-color:#ffb21a;  /* vivid orange */
 }
 .natl-maple-syrup {
-    background-color:#ffb4f4;  /* pale red (pink tone) */
+  background-color:#ffb4f4;  /* pale red (pink tone) */
 }
 .super-saturday {
-    background-color:#9ab3ff;  /* pale blue */
+  background-color:#9ab3ff;  /* pale blue */
 }
 .start-winter {
   background-color:#98fb98;  /* very soft lime green */
@@ -115,8 +115,10 @@ ul {
   font-size:125%;
 }
 .boxing {
-    background-color:#ffc0cb;  /* very pale red (pink) */
+  background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .new-years-eve {
-    background-color:#ffff00;  /* yellow */
+  background-color:#ffff00;  /* yellow */
+  font-family: Bahnschrift, "Lucida Console", "Courier New", monospace, Helvetica;
+  font-size:125%;
 }
