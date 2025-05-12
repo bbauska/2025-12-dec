@@ -105,14 +105,14 @@ ul {
   background-color:#9ab3ff;  /* pale blue */
 }
 .start-winter {
-  background-color:#98fb98;  /* very soft lime green */
+  background-color:#ceceff;  /* very pale blue, was; 98fb98 - very soft lime green */
   font-family: Bahnschrift, "Lucida Console", "Courier New", monospace, Helvetica;
-  font-size:125%;
+  font-size:110%;
 }
 .xmas {
-  background-color:#a6f4ff;  /* pale cyan */
+  background-color:#ff4d4d;  /* light red, was; a6f4ff - pale cyan */
   font-family: Bahnschrift, "Lucida Console", "Courier New", monospace, Helvetica;
-  font-size:125%;
+  font-size:110%;
 }
 .boxing {
   background-color:#ffc0cb;  /* very pale red (pink) */
@@ -120,5 +120,5 @@ ul {
 .new-years-eve {
   background-color:#9aff9a;  /* pale lime green */
   font-family: Bahnschrift, "Lucida Console", "Courier New", monospace, Helvetica;
-  font-size:125%;
+  font-size:110%;
 }
