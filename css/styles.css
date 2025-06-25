@@ -67,7 +67,6 @@ ul {
   padding:5px;
   margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -106,7 +105,7 @@ a:hover::after {
 
 <!-- World, National & International Days -->
 .cyber-monday {
-  background-color:#e8e193;  /* very soft yellow */
+  background-color:#e1d2f5;  /* light grayish violet */
 }
 .giving-tuesday {
   background-color:#c2e7e7;  /* light grayish cyan */
