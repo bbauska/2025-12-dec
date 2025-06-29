@@ -1,4 +1,4 @@
-<!-- css/styles.css for 2025-Dec.bauska.org -->
+<!-- css/styles.css for github 2025-12-dec.bauska.org making 2025-dec.bauska.org -->
 body {
   font-family: Helvetica, Bahnschrift, "Lucida Console", "Courier New", monospace;
 }
@@ -68,7 +68,7 @@ ul {
   margin:5px 0;
 }
 .container {
-  background-color: #ffffff;  /* white */
+  background-color: #fff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
   padding: 20px;
   border-radius: 10px;
@@ -81,7 +81,7 @@ a {
   color: #4169e1;  /* royalblue */
   text-decoration: none;
   position: relative;
-  padding-right:50px;  /* 6-23-2025 */
+  padding-right:50px;
   font-family: Helvetica, Arial, sans-serif;
   transition: color 0.3s ease-in-out;
 }
@@ -104,6 +104,9 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.cyber-mon {
+  background-color:#e1d2f5;  /* light grayish violet */
+}
 .cyber-monday {
   background-color:#e1d2f5;  /* light grayish violet */
 }
