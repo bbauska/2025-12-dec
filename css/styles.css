@@ -1,4 +1,4 @@
-<!-- css/styles.css for github 2025-12-dec.bauska.org making 2025-dec.bauska.org -->
+/* css/styles.css for 2025-12-dec making 2025-dec.bauska.org */
 body {
   font-family: Helvetica, Bahnschrift, "Lucida Console", "Courier New", monospace;
 }
@@ -103,7 +103,7 @@ a:hover::after {
   width: 88%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .cyber-mon {
   background-color:#e1d2f5;  /* light grayish violet */
 }
