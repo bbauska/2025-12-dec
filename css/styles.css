@@ -11,7 +11,7 @@ table {
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
-  height:450px;
+  height:400px;
   text-align:right;
 }
 
@@ -32,7 +32,6 @@ h1 {
   text-align:right;
   text-decoration:none;
   vertical-align:bottom;
-  padding-bottom: 150px;
 }
 
 .weekday-header {
