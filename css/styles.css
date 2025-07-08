@@ -25,7 +25,6 @@ h1 {
   text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
   vertical-align:top;
 }
-/* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
   font-size:65%;
@@ -33,6 +32,7 @@ h1 {
   text-align:right;
   text-decoration:none;
   vertical-align:bottom;
+  padding-bottom: 150px;
 }
 
 .weekday-header {
